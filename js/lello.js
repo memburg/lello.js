@@ -6,7 +6,7 @@ const algtitle = document.getElementById('algtitle'); // algorithm title
 const algdesc = document.getElementById('algdesc'); // algorithm description
 
 function preload() {
-    img = loadImage('../img/lello.jpg');
+    img = loadImage('https://memburg.github.io/lello.js/img/lello.jpg');
 }
 
 function setup() {
